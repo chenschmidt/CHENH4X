@@ -15,4 +15,4 @@ CHENH4X SA-MP Launcher :ghost:
 
 - Download [CLEO.zip](https://github.com/chenschmidt/SAMP-MOBILE/releases/download/SAMP-UNIVERSAL-APK/cleo.zip)
 
-- Download [CHENH4X.apk](https://github.com/chenschmidt/SAMP-MOBILE/releases/download/SAMP-UNIVERSAL-APK/
+
