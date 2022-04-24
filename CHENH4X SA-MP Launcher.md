@@ -3,11 +3,9 @@
 
 Hi! I'm Chen Schmidt. On my YouTube Channel, you will find GAMEPLAYS, SCRIPTING, TUTORIALS and APK RELEASES contents. I love playing online games, writing codes, developing android projects and sharing my experiences with you. Subscribe to see more GAMEPLAYS, SCRIPTING, TUTORIALS and APK RELEASES on your feed!
 
-- CLICK ON RELEASES TO DOWNLOAD 
+- [Subscribe](https://www.youtube.com/c/ChenDeveloper) on my YouTube Channel!
 
-- SUBSCRIBE ON MY YOUTUBE CHANNEL - https://www.youtube.com/c/ChenDeveloper
-
-- JOIN ON OUR YOUTUBE COMMUNITY TO SUPPORT MY WORKS - https://www.youtube.com/channel/UCzikarATpDgTHgSY-JwbrRw/join
+- [Join](https://www.youtube.com/channel/UCzikarATpDgTHgSY-JwbrRw/join) on my YouTube community to support my works!
 
 --------------------------------------------------------------------------------------------------------------------
 CHENH4X SA-MP Launcher :ghost:
