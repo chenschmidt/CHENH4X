@@ -11,6 +11,8 @@ Hi! I'm Chen Schmidt. On my YouTube Channel, you will find GAMEPLAYS, SCRIPTING,
 CHENH4X SA-MP Launcher :ghost:
 --------------------------------------------------------------------------------------------------------------------
 
+- Download [CHENH4X SA-MP Launcher](https://play.google.com/store/apps/details?id=com.chenh4x.launcher)
+
 - Download [CLEO.zip](https://github.com/chenschmidt/SAMP-MOBILE/releases/download/SAMP-UNIVERSAL-APK/cleo.zip)
 
 - Download [CHENH4X.apk](https://github.com/chenschmidt/SAMP-MOBILE/releases/download/SAMP-UNIVERSAL-APK/CHENH4X.apk)
