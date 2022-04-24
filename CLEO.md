@@ -19,3 +19,12 @@ CHENH4X SA-MP Launcher :ghost:
 
 - Follow all the instructions on the photo below
 
+- 1. First open the Zarchiver app and Locate the CLEO.zip then click view.
+- ![IMG_20220424_182542](https://user-images.githubusercontent.com/54407879/164972286-c5d6a09e-e73a-47e7-99b3-a7c8104d60a5.png)
+
+- 2. After viewing the CLEO.zip long press the cleo folder and click copy.
+- ![IMG_20220424_182557](https://user-images.githubusercontent.com/54407879/164972320-6dc7fc47-3300-476b-a51e-bba83cf96ccc.png)
+- ![IMG_20220424_182625](https://user-images.githubusercontent.com/54407879/164972430-172fd83b-f639-4273-b215-57be8d49b0ea.png)
+
+- 3. Then Paste it on Device Memory, after that CLEO folder is successfully loaded on CHENH4X SA-MP Launcher.
+- ![IMG_20220424_182610](https://user-images.githubusercontent.com/54407879/164972409-da7b3d38-c7ac-4d2a-95a4-18947bba1e1a.png)
