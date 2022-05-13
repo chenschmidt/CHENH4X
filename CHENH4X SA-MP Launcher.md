@@ -12,6 +12,7 @@ Hi! I'm Chen Schmidt. On my YouTube Channel, you will find GAMEPLAYS, SCRIPTING,
 
 --------------------------------------------------------------------------------------------------------------------
 CHENH4X SA-MP Launcher :ghost:
+Current Version: V11.5
 --------------------------------------------------------------------------------------------------------------------
 
 - Download [CHENH4X.apk](https://github.com/chenschmidt/SAMP-MOBILE/releases/download/SAMP-UNIVERSAL-APK/LAUNCHER.apk)
